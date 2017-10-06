@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KmAMilles castellano</string>
+    <string name="missatge">Prueba</string>
+    <string name="kilometros">Kilometros</string>
+    <string name="millas">Millas</string>
+    <string name="Toast1">Debes introducir carácteres numericos</string>
+</resources>

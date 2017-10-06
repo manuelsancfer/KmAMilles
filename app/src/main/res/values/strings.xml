@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">KmAMilles</string>
+    <string name="kilometros">Kilometros</string>
+    <string name="millas">Millas</string>
+    <string name="Toast1">Debes introducir carácteres numericos</string>
+</resources>
